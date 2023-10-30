@@ -1,0 +1,2 @@
+# debug_s3_sns_sqs_dynamodb
+debug_s3_sns_sqs_dynamodb
